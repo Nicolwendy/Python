@@ -1,7 +1,7 @@
 print("Welcome to python programming")
 print(5+8)
 print("4+9")
-print("My name is Nicol Wendy")
+print("My name is Nicol Wendy.")
 print("I am 20 years old.")
 print("My hobby is listening to music and watching movies.")
 print("I study Web development at Emobilis Training Institute.")
